@@ -53,24 +53,21 @@
       alt="kafka"
       width="40"
       height="40"
-    />
-</a>
+    /></a>
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
       alt="scala"
       width="40"
       height="40"
-    />
-</a>
+    /></a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"
       alt="hadoop"
       width="40"
       height="40"
-    />
-</a>
+    /></a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" />  
@@ -81,8 +78,7 @@
       alt="mongodb"
       width="40"
       height="40"
-    />
-</a>
+    /></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
