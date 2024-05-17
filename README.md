@@ -34,66 +34,62 @@
 
 ### Backend  
 <div align="center">  
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
       alt="spring"
       width="40"
       height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
       width="40"
       height="40"
-    />
-  </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
       alt="kafka"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
+</a>
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
       alt="scala"
       width="40"
       height="40"
     />
-  </a>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+</a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"
       alt="hadoop"
       width="40"
       height="40"
     />
-  </a>
+</a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />  
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
+</a>
+<a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
 
 </div>
 
